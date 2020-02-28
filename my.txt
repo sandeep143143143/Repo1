@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is DC75-487B
-
- Directory of C:\Users\sandeepk1\OneDrive - VMware, Inc\Desktop\My Project
-
-02/28/2020  10:24 PM    <DIR>          .
-02/28/2020  10:24 PM    <DIR>          ..
-02/28/2020  10:24 PM                 0 my.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  398,169,149,440 bytes free
+change 1
